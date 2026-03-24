@@ -1,6 +1,6 @@
 # ChatViq React App
 
-AI-Powered Chatbot & Automation Platform — converted from HTML to React.
+AI-Powered Chatbot & Automation Platform —  React.
 
 ## Getting Started
 
